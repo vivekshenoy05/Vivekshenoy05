@@ -23,7 +23,7 @@
 <br>
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivekshenoy05&show_icons=true&locale=en&theme=dark" alt="Vivekshenoy05" /></div>
 <br>
-<div><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sandesh-prabhu&theme=react&border=000000)]" alt="Vivekshenoy05" /></div>
+<div><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vivekshenoy05&theme=react&border=000000)]" alt="Vivekshenoy05" /></div>
 
 <!-- <p align="center">
     <b>GitHub Visitors</b>
