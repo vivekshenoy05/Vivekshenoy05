@@ -25,12 +25,12 @@
 <br>
 <div><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vivekshenoy05&theme=react&border=000000)]" alt="Vivekshenoy05" /></div>
 
-<!-- <p align="center">
+<p align="center">
     <b>GitHub Visitors</b>
     <br>
     <br>
     <img alt="Page counter" src="https://profile-counter.glitch.me/Vivekshenoy05/count.svg">
-</p> -->
+</p>
 
 
 
